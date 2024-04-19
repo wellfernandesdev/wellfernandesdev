@@ -12,5 +12,10 @@
 <img ali="center" alt= "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whit">
 <img ali="center" alt= "CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img ali="center" alt= "github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
+</div><br>
 
+### Um pouco sobre mim
+
+<article style="italic">
+<i>Atualmente com 33 anos, ja trilhei uma jornada na área administrativa por um bom tempo. Recentemente, tomei uma decisão transformadora: migrar para a área de tecnologia. Desde sempre, tenho grande paixão pela tecnologia e inovação. Em junho de 2022, dei início à minha jornada acadêmica no curso de Análise e Desenvolvimento de Sistemas. Desde então, tenho buscado incessantemente ampliar meu conhecimento. Sou profundamente proativo, sempre buscando ir além dos limites estabelecidos pela universidade. Participo ativamente de imersões, palestras e cursos de aprimoramento, ansioso por absorver todo aprendizado possível. Estou ancioso para dar meus primeiros passos na área de programação, e estou totalmente comprometido em aprender tudo o que for necessário para alcançar meus objetivos.</i>
+</article>
