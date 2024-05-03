@@ -20,7 +20,7 @@
 ### Um pouco sobre mim😀
 
 <article style="italic">
-<i>Atualmente com 33 anos, ja trilhei uma jornada na área administrativa por um bom tempo. Recentemente, tomei uma decisão transformadora: migrar para a área de tecnologia. Desde sempre, tenho grande paixão pela tecnologia e inovação. Em junho de 2022, dei início à minha jornada acadêmica no curso de Análise e Desenvolvimento de Sistemas. Desde então, tenho buscado incessantemente ampliar meu conhecimento. Sou profundamente proativo, sempre buscando ir além dos limites estabelecidos pela universidade. Participo ativamente de imersões, palestras e cursos de aprimoramento, ansioso por absorver todo aprendizado possível. Estou ancioso para dar meus primeiros passos na área de programação, e estou totalmente comprometido em aprender tudo o que for necessário para alcançar meus objetivos.</i>
+<i>Atualmente com 33 anos, ja trilhei uma jornada na área administrativa por um bom tempo. Recentemente, tomei uma decisão transformadora: migrar para a área de tecnologia. Desde sempre, tenho grande paixão pela tecnologia. Em junho de 2022, dei início à minha jornada acadêmica no curso de Análise e Desenvolvimento de Sistemas. Desde então, tenho buscado incessantemente ampliar meu conhecimento. Sou profundamente proativo, sempre buscando ir além dos limites estabelecidos pela universidade. Participo ativamente de imersões, palestras e cursos de aprimoramento, ansioso por absorver todo aprendizado possível. Estou ancioso para dar meus primeiros passos na área de programação, e estou totalmente comprometido em aprender tudo o que for necessário para alcançar meus objetivos.</i>
 </article>
 
 
